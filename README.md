@@ -5,6 +5,8 @@
 Language: Python
 API: Pytorch
 
+## Requirement
+This code has been tested with Python 3.9.15, PyTorch 1.13.1 and cuda 11.4.
 
 ## Instructions
-
+The respective folders provide instructions for each inversion task.
